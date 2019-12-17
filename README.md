@@ -9,7 +9,7 @@
   The raspberry pi handles collecting the lidar data and sending packets of json data do the API.
   
 # Processing
-[Link to Process!](https://processing.org)
+[Link to Processing!](https://processing.org)
 
 Processing is a very powerful software that allows you to draw graphics. It supports Java, Python, and JavaScript. This project we used Java to do the graphical programming. The as the code draws each frame, it sends a request to the API and retrieves the next API points. 
 
